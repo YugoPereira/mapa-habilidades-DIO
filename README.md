@@ -105,7 +105,7 @@ Para estruturar este mapa, utilizei as seguintes perguntas estratégicas nas IAs
 ### 📚 Referência Metodológica
 
 - [Ikigai Canvas](https://www.wrkshp.tools/tools/ikigai-canvas)(Autoconhecimento)
-- [Mapa de Habilidades DIO]( ) (Estrutura do Projeto)
+- [Mapa de Habilidades DIO](https://github.com/YugoPereira/mapa-habilidades-DIO/blob/main/Mapa%20de%20Habilidades%20DIO.pdf) (Estrutura do Projeto)
 
 ## 👨‍💻 Autor
 
