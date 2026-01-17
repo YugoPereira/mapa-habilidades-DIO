@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://hermes.dio.me/tracks/cover/capahabilidades.png" 
+    src="https://github.com/YugoPereira/mapa-habilidades-DIO/blob/main/capahabilidades.png" 
     width="600"
 />
 </p>
@@ -105,7 +105,7 @@ Para estruturar este mapa, utilizei as seguintes perguntas estratégicas nas IAs
 ### 📚 Referência Metodológica
 
 - [Ikigai Canvas](https://www.wrkshp.tools/tools/ikigai-canvas)(Autoconhecimento)
-- [Mapa de Habilidades DIO]() (Estrutura do Projeto)
+- [Mapa de Habilidades DIO]( ) (Estrutura do Projeto)
 
 ## 👨‍💻 Autor
 
